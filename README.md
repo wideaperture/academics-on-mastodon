@@ -31,7 +31,7 @@ The following are curated lists of academic accounts on Mastodon by discipline. 
 - [Book History (BookHistodons)](https://docs.google.com/spreadsheets/d/1T-IUl72xlbEcaclP7TUA8kgrhDTVSrMwwsi5iIIfsow/) (Google Spreadsheet; [Form to add yourself](https://forms.gle/3fwsaeAywBqurLj26))
 - [Cheminformatics and Computational Chemistry](https://cheminformatics.netlify.app/)
 - [Chemistry](https://docs.google.com/spreadsheets/d/1qdJvHHvu-BC4N6nk1jNMhTwoBrIaqHLUCZRf9pCQwDs/) (Google Spreadsheet) ([Form to add yourself](https://forms.gle/gF9MLUGMWs23EFix6))
-- [Communication and Media Studies](https://docs.google.com/document/d/1vFWP_eBXrjeDqDkmT6PEbxnsZ_QFC4OgEgUHTrJWhhQ/) (Google Doc)
+- [Communication and Media Studies](https://joshbraun.umasscreate.net/commodon/) (Landing page with options for adding yourself) 
 - [Criminology](https://docs.google.com/spreadsheets/d/1p3CdCkaNbhVGujxsbTkVq9aGGzLeBmsdpeCcdM3o5pM/edit?usp=sharing) (Google Spreadsheet; [Form to add yourself](https://edinburgh.onlinesurveys.ac.uk/mastodon-crimodon))
 - [Crowdsourcing in Cultural Heritage/Citizen Science](https://docs.google.com/spreadsheets/d/1phT792K3WqoHEGrlu6R2AVzqMH69t2gV5kvGkJ59UJk/htmlview) (Google Spreadsheet; [Form to add yourself](https://docs.google.com/forms/d/e/1FAIpQLSf68Kj6KYRLOFIm7BYR6UkBH2Ob4Rmm-IdwpbbUgGaVTMJqNg/viewform)) 
 - [Dendrochronology](https://ronaldvisser.github.io/Mastodon-Dendrochronology/)
